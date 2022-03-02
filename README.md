@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LovelyQuantum
 - ✨ I’m interested in 3D rendering, ACG and music.
-- 🌱 I’m currently learning Go, Java, React.
+- 🌱 I’m currently learning Go, Java, React, Flutter.
 - 💞️ I’m looking to collaborate on 3D rendering.
 - 📫 Email me jin1349595233@gmail.com
 
